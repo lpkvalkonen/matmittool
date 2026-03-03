@@ -1,0 +1,13 @@
+name: matkailu_ennustetyokalu
+title: matkailu_ennustetyokalu
+username: laurihamk
+account: laurihamk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16529747
+bundleId: 11655354
+url: https://laurihamk.shinyapps.io/matkailu_ennustetyokalu/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_cleaning.R|matkailijamittari_data.csv|model_code_1to15.R|profiles_mining.R|README_maintaining_the_tool.html
