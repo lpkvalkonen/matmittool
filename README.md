@@ -1,7 +1,6 @@
-# Overview
-Model codes for tourists expenditure estimation with Bayesian model and shiny codes.
+# Työkalu matkailutulo- ja profiilimallinnukseen
 
-<p><b>Ohjeet</b></p>
+<p><b>Työkalun käyttöohjeet</b></p>
 
 <p><em>Viimeisin päivitys: 3.3.2026</em></p>
 
@@ -46,7 +45,7 @@ Työkalua voivat käyttää kaikki matkailun tiedolla johtamista harjoittavat, j
 
 <section id="data_and_model">
   <h1>Data ja laskentamalli</h1>
-<p>Työkalun datana hyödynnetään avoimesti saatavilla olevaa Matkailijamittari-dataa (Avoindata.fi, 2026). Laskentamallia on jalostettu matkailijan rahankäytön ennustamista käsittelevän artikkelin pohjalta (Valkonen & Koskela, 2025), jossa rahankäytön ennustemallinnusta on kuvattu kokonaisvaltaisemmin. Työkalu hyödyntää Bayes-mallia, johon on käytetty R-ohjelman (R Core Team, 2023) brms-pakettia (Bürkner, 2017). 
+<p>Työkalun datana hyödynnetään avoimesti saatavilla olevaa Matkailijamittari-dataa (Avoindata.fi, 2026). Laskentamallia on jalostettu matkailijan rahankäytön ennustamista käsittelevän artikkelin pohjalta (Valkonen & Koskela, 2025), jossa rahankäytön ennustemallinnusta on kuvattu kokonaisvaltaisemmin. Työkalu hyödyntää Bayes-mallia, johon on käytetty R-ohjelman (R Core Team, 2023) brms-pakettia (Bürkner, 2017). Käyttöliittymän rakentamiseen on hyödynnetty Shiny-kirjastoa (xxxx). 
 </p>
   
 <p>Kausaalisia tulkintoja tekijöiden vaikutuksista ei työkalulla voida suoraan tehdä. Toisin sanoen, ei voida sanoa esimerkiksi, että yhden yön pidempi matka <em>aiheuttaa</em> x euroa enemmän kulutusta. Kausaalisuuteen ja kausaalivaikutuksiin Matkailijamittari-datan kontekstissa, erityisesti yöpymisen osalta, on paneuduttu artikkelissa (Valkonen & Karvanen, 2026)</p>
@@ -102,7 +101,7 @@ Työkalua voivat käyttää kaikki matkailun tiedolla johtamista harjoittavat, j
 <section id="implementation">
 	<h1>Toteutus</h1>
 	
-	<p>
+ <p>
 The MIT License (MIT)
 Copyright © 2026 Hämeen ammattikorkeakoulu / Lauri Valkonen
  </p>
@@ -116,8 +115,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  </p>
  
-	</p>
-	
 	<p>Tämä työkalu on toteutettu osana
             <a href="https://www.hamk.fi/projektit/datatehoa-matkailuun/" target="_blank" rel="nofollow">
               Datatehoa matkailuun - Data-analytiikalla tehoa Hämeenlinnan matkailun ja liikkumisen tiedolla johtamiseen -hanketta.
