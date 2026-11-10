@@ -2,7 +2,7 @@
 
 <p><b>Työkalun käyttöohjeet</b></p>
 
-<p><em>Viimeisin päivitys: 3.3.2026</em></p>
+<p><em>Viimeisin päivitys: 10.11.2026</em></p>
 
 <p><b>Sisällysluettelo</b></p>
 
@@ -115,10 +115,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  </p>
  
-	<p>Tämä työkalu on toteutettu osana
-            <a href="https://www.hamk.fi/projektit/datatehoa-matkailuun/" target="_blank" rel="nofollow">
-              Datatehoa matkailuun - Data-analytiikalla tehoa Hämeenlinnan matkailun ja liikkumisen tiedolla johtamiseen -hanketta.
-            </a></p>
+<p>Tämä työkalu on toteutettu osana <a href="https://www.hamk.fi/projektit/datatehoa-matkailuun/" target="_blank" rel="nofollow">Datatehoa matkailuun - Data-analytiikalla tehoa Hämeenlinnan matkailun ja liikkumisen tiedolla johtamiseen -hanketta.</a></p>
 
 <p>            
 Hanke on Euroopan unionin osarahoittama (Maakuntien liittojen EAKR, omarahoitus HAMK) ja lisäksi Hämeenlinnan kaupunki on rahoittanut hanketta.
