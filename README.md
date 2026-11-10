@@ -146,8 +146,7 @@ Foundation for Statistical Computing, Vienna, Austria
 Valkonen, L., & Karvanen, J. (2026). A context-specific causal model for estimating the effect of extended length of overnight stay on traveller's total expenditure. arXiv preprint arXiv:2602.18039.
 </li>
     <li>Valkonen, L. & Koskela, O. (2025). Matkailijan rahankäyttöä voidaan ennustaa Matkailijamittarilla. <em>HAMK Pilkku</em>, 17.6.2025. https://doi.org/10.63777/12fb</li>
-    <li>Visit Finland (2026). Matkailijamittari. https://www.visitfinland.fi/
-suomen-matkailudata/matkailijamittari. Viitattu: 27.1.2026</li>
+    <li>Visit Finland (2026). Matkailijamittari. https://www.visitfinland.fi/suomen-matkailudata/matkailijamittari. Viitattu: 27.1.2026</li>
 
   </ul>
 </section>
