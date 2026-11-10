@@ -45,7 +45,7 @@ Työkalua voivat käyttää kaikki matkailun tiedolla johtamista harjoittavat, j
 
 <section id="data_and_model">
   <h1>Data ja laskentamalli</h1>
-<p>Työkalun datana hyödynnetään avoimesti saatavilla olevaa Matkailijamittari-dataa (Avoindata.fi, 2026). Laskentamallia on jalostettu matkailijan rahankäytön ennustamista käsittelevän artikkelin pohjalta (Valkonen & Koskela, 2025), jossa rahankäytön ennustemallinnusta on kuvattu kokonaisvaltaisemmin. Työkalu hyödyntää Bayes-mallia, johon on käytetty R-ohjelman (R Core Team, 2023) brms-pakettia (Bürkner, 2017). Käyttöliittymän rakentamiseen on hyödynnetty Shiny-kirjastoa (xxxx). 
+<p>Työkalun datana hyödynnetään avoimesti saatavilla olevaa Matkailijamittari-dataa (Avoindata.fi, 2026). Laskentamallia on jalostettu matkailijan rahankäytön ennustamista käsittelevän artikkelin pohjalta (Valkonen & Koskela, 2025), jossa rahankäytön ennustemallinnusta on kuvattu kokonaisvaltaisemmin. Työkalu hyödyntää Bayes-mallia, johon on käytetty R-ohjelman (R Core Team, 2023) brms-pakettia (Bürkner, 2017). Käyttöliittymän rakentamiseen on hyödynnetty Shiny-kirjastoa (Chang ym., 2022). 
 </p>
   
 <p>Kausaalisia tulkintoja tekijöiden vaikutuksista ei työkalulla voida suoraan tehdä. Toisin sanoen, ei voida sanoa esimerkiksi, että yhden yön pidempi matka <em>aiheuttaa</em> x euroa enemmän kulutusta. Kausaalisuuteen ja kausaalivaikutuksiin Matkailijamittari-datan kontekstissa, erityisesti yöpymisen osalta, on paneuduttu artikkelissa (Valkonen & Karvanen, 2026)</p>
@@ -138,6 +138,9 @@ Hanke on Euroopan unionin osarahoittama (Maakuntien liittojen EAKR, omarahoitus 
   Bürkner, P.-C. (2017). brms: An R package for Bayesian multilevel models using Stan.
 <em>Journal of Statistical Software</em>, 80(1):1–28.
     </li>
+	<li>
+	Chang, W., Cheng, J., Allaire, J. J., Sievert, C., Schloerke, B., Xie, Y., Allen, J., McPherson, J., Dipert, A., & Borges, B. (2022). <em>shiny: Web Application Framework for R</em> (R package version 1.7.4). https://CRAN.R-project.org/package=shiny
+	</li>
     <li>
       R Core Team (2023). R: A Language and Environment for Statistical Computing. R
 Foundation for Statistical Computing, Vienna, Austria
