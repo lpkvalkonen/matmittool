@@ -2,7 +2,7 @@
 
 <p><b>Työkalun käyttöohjeet</b></p>
 
-<p><em>Viimeisin päivitys: 10.11.2026</em></p>
+<p><em>Viimeisin päivitys: 12.11.2026</em></p>
 
 <p><b>Sisällysluettelo</b></p>
 
