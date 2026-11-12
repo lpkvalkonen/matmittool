@@ -124,7 +124,7 @@ Hanke on Euroopan unionin osarahoittama (Maakuntien liittojen EAKR, omarahoitus 
 <img src="FI_Co-fundedbytheEU_RGB_POS.png"  width="600">
 
 <p>
-Data ja mallit: Pohjadata (`matkailijamittari_data.csv`) perustuu Business Finlandin (Visit Finland) avoimeen tietoaineistoon *Visit Finland Matkailijamittari* (https://avoindata.suomi.fi/data/fi/dataset/visit-finland-matkailijamittari?), lisenssi [CC BY 4.0](https://creativecommons.org)). Alkuperäistä aineistoa on jatkojalostettu mallinnusta varten (ks. `data_cleaning.R` ja `profiles_mining.R`). Jalostetut aineistot ja sovitetut mallit (`.RData`) sekä käyttöohjeet on lisensoitu [CC BY 4.0](https://creativecommons.org) -lisenssillä.
+Data ja mallit: Pohjadata (`matkailijamittari_data.csv`) perustuu Business Finlandin (Visit Finland) avoimeen tietoaineistoon 'Visit Finland Matkailijamittari' (https://avoindata.suomi.fi/data/fi/dataset/visit-finland-matkailijamittari?), lisenssi [CC BY 4.0](https://creativecommons.org)). Alkuperäistä aineistoa on jatkojalostettu mallinnusta varten (ks. `data_cleaning.R` ja `profiles_mining.R`). Jalostetut aineistot ja sovitetut mallit (`.RData`) sekä käyttöohjeet on lisensoitu [CC BY 4.0](https://creativecommons.org) -lisenssillä.
 
 
 
